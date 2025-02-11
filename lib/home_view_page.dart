@@ -21,7 +21,7 @@ class HomeViewPage extends StatelessWidget {
                   bottomRight: Radius.circular(500.0),
                 ),
               ),
-              backgroundColor: Colors.orange[100],
+              backgroundColor: Colors.green[100],
               expandedHeight: 400.0,
               floating: true,
               flexibleSpace: FlexibleSpaceBar(
